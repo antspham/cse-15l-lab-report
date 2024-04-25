@@ -44,4 +44,5 @@ Part Two
 ![Screenshot (13)](https://github.com/antspham/cse-15l-lab-report/assets/165956921/180f0264-7023-4623-a67b-3cf5142bb036)
 
 Part Three
+
 Something I learned from lab in week two was how servers and urls works especially how data can be stored depending on how the url is formatted. Something I learned from lab in week three was how easy it was to connect to a remote server although I am curious on how this can be applied practically. 
